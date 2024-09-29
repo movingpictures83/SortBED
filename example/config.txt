@@ -1,0 +1,2 @@
+Prefix plugins/SortBED/example/
+Plugin SortBED inputfile A.bed outputfile sorted.bed
